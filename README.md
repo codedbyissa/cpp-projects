@@ -1,2 +1,2 @@
 # cpp-projects
-Projetos em C++ no formato console, desenvolvido por mim na grade de lógica de programação do curso analise e desenvolvimento de sistemas para exercitar a linguagem.
+Repositório criado com o objetivo de compartilhar as atividades que desenvolvi na aulas de logica de programação até agora e também as próximas que virão.
